@@ -1,0 +1,7 @@
+.card-header {
+    position: relative;
+    border: 1px solid black;
+    top: 20px;
+    left: auto;
+    right: auto;
+}
